@@ -1,0 +1,34 @@
+{
+    "name": "didux/old-zelenin-i18n-widgets",
+    "description": "Yii2 widgets",
+    "version": "0.0.3",
+    "type": "yii2-extension",
+    "keywords": [
+        "yii2",
+        "widgets",
+        "alert",
+        "error"
+    ],
+    "homepage": "https://github.com/didux/old-zelenin-i18n-widgets",
+    "time": "2014-11-02",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aleksandr Zelenin",
+            "email": "aleksandr@zelenin.me",
+            "homepage": "http://zelenin.me",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/didux/old-zelenin-i18n-widgets/issues", "source": "https://github.com/didux/old-zelenin-i18n-widgets"
+    },
+    "require": {
+        "yiisoft/yii2": "~2"
+    },
+    "autoload": {
+        "psr-4": {
+            "Zelenin\\yii\\widgets\\": ""
+        }
+    }
+}
