@@ -1,5 +1,5 @@
 {
-    "name": "didux/old-zelenin-i18n-widgets",
+    "name": "didux1/old-zelenin-i18n-widgets",
     "description": "Yii2 widgets",
     "version": "0.0.3",
     "type": "yii2-extension",
@@ -9,7 +9,7 @@
         "alert",
         "error"
     ],
-    "homepage": "https://github.com/didux/old-zelenin-i18n-widgets",
+    "homepage": "https://github.com/didux1/old-zelenin-i18n-widgets",
     "time": "2014-11-02",
     "license": "MIT",
     "authors": [
@@ -21,7 +21,7 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/didux/old-zelenin-i18n-widgets/issues", "source": "https://github.com/didux/old-zelenin-i18n-widgets"
+        "issues": "https://github.com/didux1/old-zelenin-i18n-widgets/issues", "source": "https://github.com/didux1/old-zelenin-i18n-widgets"
     },
     "require": {
         "yiisoft/yii2": "~2"
